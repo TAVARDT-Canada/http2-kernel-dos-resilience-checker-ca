@@ -7,15 +7,10 @@
 
 **Corporate Technical Defensive Engineering Specification and Hardening Blueprints for HTTP/2 Rapid Reset (CVE-2023-44487) and Linux Kernel Networking Stack**
 
-Developed and maintained by the Infrastructure Security Engineering Division of **TAVARDT Canada**.
+Developed and maintained by the Infrastructure Security Engineering Division of **TAVARDT**.
 
 ***
 
-## Official Portals
-
-* **Institutional Portal**: [Portal Institucional](https://ag.tavardt.com/ca/)
-* **Tools Center**: [Central de Ferramentas](https://tools.tavardt.com/ca/)
-* **Contact and Technical Support**: [Canal de Contato](https://ag.tavardt.com/ca/contact/)
 
 ***
 
